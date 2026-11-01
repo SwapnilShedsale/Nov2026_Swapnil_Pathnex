@@ -1,4 +1,4 @@
-# What I did today
+# What I did
 
 2 hour git and github setup
 30 mins coding
